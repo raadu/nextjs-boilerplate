@@ -1,4 +1,4 @@
-import { SampleComponentOne, SampleComponentTwo } from "@components/index.js";
+import { SampleComponentOne, SampleComponentTwo } from "components";
 
 const Home = () => {
     return (
