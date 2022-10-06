@@ -2,8 +2,8 @@
 Boilerplate to start NextJS project with a better structure.<br/>
 
 Created using Next.js, React.js <br/>
-Check [React Documentation](https://reactjs.org/docs/getting-started.html) for help.
-Check [Next Documentation](https://nextjs.org/docs) for help.
+Check [React Documentation](https://reactjs.org/docs/getting-started.html) for help. <br/>
+Check [Next Documentation](https://nextjs.org/docs) for help. <br/>
 
 # Installation 
 At first clone the github repository to your local machine. 
@@ -11,7 +11,12 @@ At first clone the github repository to your local machine.
 git clone https://github.com/raadu/nextjs-boilerplate
 ```
 
-To run the app go to project directory and enter these commands serially
+Open terminal inside the folder. Select the project sub-folder you want to use.
+```
+cd with-nextjs-basic
+```
+
+To run the app enter these commands serially
 ```
 npm install
 npm start
