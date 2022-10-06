@@ -6,17 +6,17 @@ Check [React Documentation](https://reactjs.org/docs/getting-started.html) for h
 Check [Next Documentation](https://nextjs.org/docs) for help. <br/>
 
 # Installation 
-Select the project folder you want to use
-```
-cd with-nextjs-basic
-```
-
 At first clone the github repository to your local machine. 
 ```
 git clone https://github.com/raadu/nextjs-boilerplate
 ```
 
-To run the app go to project directory and enter these commands serially
+Open terminal inside the folder. Select the project sub-folder you want to use.
+```
+cd with-nextjs-basic
+```
+
+To run the app enter these commands serially
 ```
 npm install
 npm start
